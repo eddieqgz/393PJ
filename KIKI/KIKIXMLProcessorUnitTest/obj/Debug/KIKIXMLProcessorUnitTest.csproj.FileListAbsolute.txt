@@ -1,0 +1,29 @@
+D:\GIT\KIKI\KIKI\KIKIXMLProcessorUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\GIT\KIKI\KIKI\KIKIXMLProcessorUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\GIT\KIKI\KIKI\KIKIXMLProcessorUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\GIT\KIKI\KIKI\KIKIXMLProcessorUnitTest\bin\Debug\KIKIXMLProcessorUnitTest.dll
+D:\GIT\KIKI\KIKI\KIKIXMLProcessorUnitTest\bin\Debug\KIKIXMLProcessorUnitTest.pdb
+D:\GIT\KIKI\KIKI\KIKIXMLProcessorUnitTest\bin\Debug\KIKIXmlProcessor.exe
+D:\GIT\KIKI\KIKI\KIKIXMLProcessorUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\GIT\KIKI\KIKI\KIKIXMLProcessorUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\GIT\KIKI\KIKI\KIKIXMLProcessorUnitTest\bin\Debug\KIKIXmlProcessor.exe.config
+D:\GIT\KIKI\KIKI\KIKIXMLProcessorUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\GIT\KIKI\KIKI\KIKIXMLProcessorUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\GIT\KIKI\KIKI\KIKIXMLProcessorUnitTest\obj\Debug\KIKIXMLProcessorUnitTest.csprojResolveAssemblyReference.cache
+D:\GIT\KIKI\KIKI\KIKIXMLProcessorUnitTest\obj\Debug\KIKIXMLProcessorUnitTest.dll
+D:\GIT\KIKI\KIKI\KIKIXMLProcessorUnitTest\obj\Debug\KIKIXMLProcessorUnitTest.pdb
+D:\GIT\KIKI\KIKI\KIKIXMLProcessorUnitTest\bin\Debug\KIKIXmlProcessor.pdb
+C:\Users\eddie\Documents\395 PJ\KIKI\KIKIXMLProcessorUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\eddie\Documents\395 PJ\KIKI\KIKIXMLProcessorUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\eddie\Documents\395 PJ\KIKI\KIKIXMLProcessorUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\eddie\Documents\395 PJ\KIKI\KIKIXMLProcessorUnitTest\bin\Debug\KIKIXMLProcessorUnitTest.dll
+C:\Users\eddie\Documents\395 PJ\KIKI\KIKIXMLProcessorUnitTest\bin\Debug\KIKIXMLProcessorUnitTest.pdb
+C:\Users\eddie\Documents\395 PJ\KIKI\KIKIXMLProcessorUnitTest\bin\Debug\KIKIXmlProcessor.exe
+C:\Users\eddie\Documents\395 PJ\KIKI\KIKIXMLProcessorUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\eddie\Documents\395 PJ\KIKI\KIKIXMLProcessorUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\eddie\Documents\395 PJ\KIKI\KIKIXMLProcessorUnitTest\bin\Debug\KIKIXmlProcessor.pdb
+C:\Users\eddie\Documents\395 PJ\KIKI\KIKIXMLProcessorUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\eddie\Documents\395 PJ\KIKI\KIKIXMLProcessorUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\eddie\Documents\395 PJ\KIKI\KIKIXMLProcessorUnitTest\obj\Debug\KIKIXMLProcessorUnitTest.csprojResolveAssemblyReference.cache
+C:\Users\eddie\Documents\395 PJ\KIKI\KIKIXMLProcessorUnitTest\obj\Debug\KIKIXMLProcessorUnitTest.dll
+C:\Users\eddie\Documents\395 PJ\KIKI\KIKIXMLProcessorUnitTest\obj\Debug\KIKIXMLProcessorUnitTest.pdb

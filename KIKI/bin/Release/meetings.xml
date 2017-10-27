@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Meeting>
+  <Item ID="12345">
+    <Meeting_Title>ABC</Meeting_Title>
+    <Start_Time>2017/04/03 13:13:15</Start_Time>
+    <End_Time>2017/04/04 13:13:15</End_Time>
+    <Parent_ID />
+    <Attendents />
+    <Files>1</Files>
+  </Item>
+  <Item ID="23456">
+    <Meeting_Title>BCD</Meeting_Title>
+    <Start_Time>2017/04/07 13:13:15</Start_Time>
+    <End_Time>2017/04/08 13:13:15</End_Time>
+    <Parent_ID />
+    <Attendents />
+    <Files></Files>
+  </Item>
+  <Item ID="34567">
+    <Meeting_Title>CDE</Meeting_Title>
+    <Start_Time>2017/04/08 13:13:15</Start_Time>
+    <End_Time>2017/04/09 13:13:15</End_Time>
+    <Parent_ID />
+    <Attendents />
+    <Files>2;3</Files>
+  </Item>
+</Meeting>
