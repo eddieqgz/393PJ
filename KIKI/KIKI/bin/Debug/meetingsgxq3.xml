@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Meeting>
+  <Item ID="27a5rf5nhb11565sv8oohrbq40">
+    <Meeting_Title>EECS 393 the first demo (Guanzhou Qu)</Meeting_Title>
+    <Start_Time>2017/10/27 14:00:00</Start_Time>
+    <End_Time>2017/10/27 14:30:00</End_Time>
+    <Parent_ID>27a5rf5nhb11565sv8oohrbq40@google.com</Parent_ID>
+    <Attendents>N/A</Attendents>
+    <Files></Files>
+  </Item>
+  <Item ID="019qfhf997v5vbdpaptgjdeb9c">
+    <Meeting_Title>test</Meeting_Title>
+    <Start_Time>2017/10/27 15:30:00</Start_Time>
+    <End_Time>2017/10/27 16:30:00</End_Time>
+    <Parent_ID>019qfhf997v5vbdpaptgjdeb9c@google.com</Parent_ID>
+    <Attendents>N/A</Attendents>
+    <Files></Files>
+  </Item>
+  <Item ID="k1bf89u4hm1l0k4ojdprc5d5t0">
+    <Meeting_Title>Please do not choose -- EECS 393 first demo (Yi Shao's group)</Meeting_Title>
+    <Start_Time>2017/10/29 11:00:00</Start_Time>
+    <End_Time>2017/10/29 11:30:00</End_Time>
+    <Parent_ID>k1bf89u4hm1l0k4ojdprc5d5t0@google.com</Parent_ID>
+    <Attendents>N/A</Attendents>
+    <Files>1;2</Files>
+  </Item>
+  <Item ID="0cilj997ap15bkjomkls30cg3e">
+    <Meeting_Title>TEST2</Meeting_Title>
+    <Start_Time>2017/10/29 11:30:00</Start_Time>
+    <End_Time>2017/10/29 12:30:00</End_Time>
+    <Parent_ID>0cilj997ap15bkjomkls30cg3e@google.com</Parent_ID>
+    <Attendents>N/A</Attendents>
+    <Files></Files>
+  </Item>
+  <Item ID="3lid5oqeojrb3tgedbflm0amv3">
+    <Meeting_Title>SHORT MEETING</Meeting_Title>
+    <Start_Time>2017/10/29 11:15:00</Start_Time>
+    <End_Time>2017/10/29 11:17:00</End_Time>
+    <Parent_ID>3lid5oqeojrb3tgedbflm0amv3@google.com</Parent_ID>
+    <Attendents>N/A</Attendents>
+    <Files>1;2;3</Files>
+  </Item>
+</Meeting>

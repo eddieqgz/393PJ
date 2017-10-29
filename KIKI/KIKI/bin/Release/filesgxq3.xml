@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<File>
+  <Item ID="1">
+    <File_Name>beginning2.docx</File_Name>
+    <File_Path>C:\Users\eddie\Desktop\beginning2.docx</File_Path>
+    <Created_Time></Created_Time>
+    <Modified_Time></Modified_Time>
+    <Execute_Time>2017/10/29 11:16:48</Execute_Time>
+    <Extension></Extension>
+    <Missing>False</Missing>
+    <Meetings>3lid5oqeojrb3tgedbflm0amv3</Meetings>
+  </Item>
+  <Item ID="2">
+    <File_Name>create.txt</File_Name>
+    <File_Path>C:\Users\eddie\Desktop\create.txt</File_Path>
+    <Created_Time>2017/10/29 11:16:09</Created_Time>
+    <Modified_Time>2017/10/29 11:16:09</Modified_Time>
+    <Execute_Time>2017/10/29 11:16:13</Execute_Time>
+    <Extension></Extension>
+    <Missing>False</Missing>
+    <Meetings>3lid5oqeojrb3tgedbflm0amv3</Meetings>
+  </Item>
+  <Item ID="3">
+    <File_Name>hw3</File_Name>
+    <File_Path>https://docs.google.com/a/case.edu/document/d/1CaESeKvyVaVoWNsQSdM4JvPYJv1B6vRhBo6Jwu0Kegg/edit?usp=drive_web</File_Path>
+    <Created_Time></Created_Time>
+    <Modified_Time>2017/10/29 11:15:00</Modified_Time>
+    <Execute_Time></Execute_Time>
+    <Extension>GoogleDrive</Extension>
+    <Missing>False</Missing>
+    <Meetings>3lid5oqeojrb3tgedbflm0amv3</Meetings>
+  </Item>
+</File>

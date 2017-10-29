@@ -1,0 +1,7 @@
+C:\Users\eddie\Documents\395 PJ\final version\ProjectKIKI3\KIKI\KIKIXmlProcessor\bin\Release\KIKIXmlProcessor.exe.config
+C:\Users\eddie\Documents\395 PJ\final version\ProjectKIKI3\KIKI\KIKIXmlProcessor\bin\Release\KIKIXmlProcessor.exe
+C:\Users\eddie\Documents\395 PJ\final version\ProjectKIKI3\KIKI\KIKIXmlProcessor\bin\Release\KIKIXmlProcessor.pdb
+C:\Users\eddie\Documents\395 PJ\final version\ProjectKIKI3\KIKI\KIKIXmlProcessor\obj\Release\KIKIXmlProcessor.csprojResolveAssemblyReference.cache
+C:\Users\eddie\Documents\395 PJ\final version\ProjectKIKI3\KIKI\KIKIXmlProcessor\obj\Release\KIKIXmlProcessor.csproj.CoreCompileInputs.cache
+C:\Users\eddie\Documents\395 PJ\final version\ProjectKIKI3\KIKI\KIKIXmlProcessor\obj\Release\KIKIXmlProcessor.exe
+C:\Users\eddie\Documents\395 PJ\final version\ProjectKIKI3\KIKI\KIKIXmlProcessor\obj\Release\KIKIXmlProcessor.pdb

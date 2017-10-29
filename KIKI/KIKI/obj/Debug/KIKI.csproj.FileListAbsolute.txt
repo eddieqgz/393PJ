@@ -1,0 +1,131 @@
+D:\GIT\KIKI\KIKI\KIKI\bin\Debug\KIKI.exe.config
+C:\Users\eddie\Source\Repos\4-23\ProjectKIKI\KIKI\KIKI\bin\Debug\KIKI.exe.config
+C:\Users\eddie\Source\Repos\4-23\ProjectKIKI\KIKI\KIKI\obj\Debug\KIKI.exe
+C:\Users\eddie\Source\Repos\4-23\ProjectKIKI\KIKI\KIKI\obj\Debug\KIKI.pdb
+C:\Users\eddie\Source\Repos\4-23\ProjectKIKI\KIKI\KIKI\bin\Debug\client_secret.json
+C:\Users\eddie\Source\Repos\4-23\ProjectKIKI\KIKI\KIKI\bin\Debug\KIKI.exe
+C:\Users\eddie\Source\Repos\4-23\ProjectKIKI\KIKI\KIKI\bin\Debug\KIKI.pdb
+C:\Users\eddie\Source\Repos\4-23\ProjectKIKI\KIKI\KIKI\bin\Debug\Google.Apis.Auth.dll
+C:\Users\eddie\Source\Repos\4-23\ProjectKIKI\KIKI\KIKI\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\eddie\Source\Repos\4-23\ProjectKIKI\KIKI\KIKI\bin\Debug\Google.Apis.Calendar.v3.dll
+C:\Users\eddie\Source\Repos\4-23\ProjectKIKI\KIKI\KIKI\bin\Debug\Google.Apis.Core.dll
+C:\Users\eddie\Source\Repos\4-23\ProjectKIKI\KIKI\KIKI\bin\Debug\Google.Apis.dll
+C:\Users\eddie\Source\Repos\4-23\ProjectKIKI\KIKI\KIKI\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\eddie\Source\Repos\4-23\ProjectKIKI\KIKI\KIKI\bin\Debug\Hardcodet.Wpf.TaskbarNotification.dll
+C:\Users\eddie\Source\Repos\4-23\ProjectKIKI\KIKI\KIKI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\eddie\Source\Repos\4-23\ProjectKIKI\KIKI\KIKI\bin\Debug\Zlib.Portable.dll
+C:\Users\eddie\Source\Repos\4-23\ProjectKIKI\KIKI\KIKI\bin\Debug\Google.Apis.pdb
+C:\Users\eddie\Source\Repos\4-23\ProjectKIKI\KIKI\KIKI\bin\Debug\Google.Apis.xml
+C:\Users\eddie\Source\Repos\4-23\ProjectKIKI\KIKI\KIKI\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\eddie\Source\Repos\4-23\ProjectKIKI\KIKI\KIKI\bin\Debug\Google.Apis.Auth.xml
+C:\Users\eddie\Source\Repos\4-23\ProjectKIKI\KIKI\KIKI\bin\Debug\Google.Apis.Auth.PlatformServices.pdb
+C:\Users\eddie\Source\Repos\4-23\ProjectKIKI\KIKI\KIKI\bin\Debug\Google.Apis.Auth.PlatformServices.xml
+C:\Users\eddie\Source\Repos\4-23\ProjectKIKI\KIKI\KIKI\bin\Debug\Google.Apis.Calendar.v3.pdb
+C:\Users\eddie\Source\Repos\4-23\ProjectKIKI\KIKI\KIKI\bin\Debug\Google.Apis.Calendar.v3.xml
+C:\Users\eddie\Source\Repos\4-23\ProjectKIKI\KIKI\KIKI\bin\Debug\Google.Apis.Core.pdb
+C:\Users\eddie\Source\Repos\4-23\ProjectKIKI\KIKI\KIKI\bin\Debug\Google.Apis.Core.xml
+C:\Users\eddie\Source\Repos\4-23\ProjectKIKI\KIKI\KIKI\bin\Debug\Google.Apis.PlatformServices.pdb
+C:\Users\eddie\Source\Repos\4-23\ProjectKIKI\KIKI\KIKI\bin\Debug\Google.Apis.PlatformServices.xml
+C:\Users\eddie\Source\Repos\4-23\ProjectKIKI\KIKI\KIKI\bin\Debug\Hardcodet.Wpf.TaskbarNotification.pdb
+C:\Users\eddie\Source\Repos\4-23\ProjectKIKI\KIKI\KIKI\bin\Debug\Hardcodet.Wpf.TaskbarNotification.xml
+C:\Users\eddie\Source\Repos\4-23\ProjectKIKI\KIKI\KIKI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\eddie\Source\Repos\4-23\ProjectKIKI\KIKI\KIKI\bin\Debug\Zlib.Portable.xml
+C:\Users\eddie\Source\Repos\4-23\ProjectKIKI\KIKI\KIKI\obj\Debug\KIKI.csprojResolveAssemblyReference.cache
+C:\Users\eddie\Source\Repos\4-23\ProjectKIKI\KIKI\KIKI\obj\Debug\MainWindow.g.cs
+C:\Users\eddie\Source\Repos\4-23\ProjectKIKI\KIKI\KIKI\obj\Debug\App.g.cs
+C:\Users\eddie\Source\Repos\4-23\ProjectKIKI\KIKI\KIKI\obj\Debug\KIKI_MarkupCompile.cache
+C:\Users\eddie\Source\Repos\4-23\ProjectKIKI\KIKI\KIKI\obj\Debug\KIKI_MarkupCompile.lref
+C:\Users\eddie\Source\Repos\4-23\ProjectKIKI\KIKI\KIKI\obj\Debug\MainWindow.baml
+C:\Users\eddie\Source\Repos\4-23\ProjectKIKI\KIKI\KIKI\obj\Debug\KIKI.g.resources
+C:\Users\eddie\Source\Repos\4-23\ProjectKIKI\KIKI\KIKI\obj\Debug\KIKI.Properties.Resources.resources
+C:\Users\eddie\Source\Repos\4-23\ProjectKIKI\KIKI\KIKI\obj\Debug\KIKI.csproj.GenerateResource.Cache
+D:\GIT\KIKI\KIKI\KIKI\bin\Debug\client_secret.json
+D:\GIT\KIKI\KIKI\KIKI\bin\Debug\KIKI.exe
+D:\GIT\KIKI\KIKI\KIKI\bin\Debug\KIKI.pdb
+D:\GIT\KIKI\KIKI\KIKI\bin\Debug\Google.Apis.Auth.dll
+D:\GIT\KIKI\KIKI\KIKI\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+D:\GIT\KIKI\KIKI\KIKI\bin\Debug\Google.Apis.Calendar.v3.dll
+D:\GIT\KIKI\KIKI\KIKI\bin\Debug\Google.Apis.Core.dll
+D:\GIT\KIKI\KIKI\KIKI\bin\Debug\Google.Apis.dll
+D:\GIT\KIKI\KIKI\KIKI\bin\Debug\Google.Apis.PlatformServices.dll
+D:\GIT\KIKI\KIKI\KIKI\bin\Debug\Hardcodet.Wpf.TaskbarNotification.dll
+D:\GIT\KIKI\KIKI\KIKI\bin\Debug\Newtonsoft.Json.dll
+D:\GIT\KIKI\KIKI\KIKI\bin\Debug\Zlib.Portable.dll
+D:\GIT\KIKI\KIKI\KIKI\bin\Debug\Google.Apis.pdb
+D:\GIT\KIKI\KIKI\KIKI\bin\Debug\Google.Apis.xml
+D:\GIT\KIKI\KIKI\KIKI\bin\Debug\Google.Apis.Auth.pdb
+D:\GIT\KIKI\KIKI\KIKI\bin\Debug\Google.Apis.Auth.xml
+D:\GIT\KIKI\KIKI\KIKI\bin\Debug\Google.Apis.Auth.PlatformServices.pdb
+D:\GIT\KIKI\KIKI\KIKI\bin\Debug\Google.Apis.Auth.PlatformServices.xml
+D:\GIT\KIKI\KIKI\KIKI\bin\Debug\Google.Apis.Calendar.v3.pdb
+D:\GIT\KIKI\KIKI\KIKI\bin\Debug\Google.Apis.Calendar.v3.xml
+D:\GIT\KIKI\KIKI\KIKI\bin\Debug\Google.Apis.Core.pdb
+D:\GIT\KIKI\KIKI\KIKI\bin\Debug\Google.Apis.Core.xml
+D:\GIT\KIKI\KIKI\KIKI\bin\Debug\Google.Apis.PlatformServices.pdb
+D:\GIT\KIKI\KIKI\KIKI\bin\Debug\Google.Apis.PlatformServices.xml
+D:\GIT\KIKI\KIKI\KIKI\bin\Debug\Hardcodet.Wpf.TaskbarNotification.pdb
+D:\GIT\KIKI\KIKI\KIKI\bin\Debug\Hardcodet.Wpf.TaskbarNotification.xml
+D:\GIT\KIKI\KIKI\KIKI\bin\Debug\Newtonsoft.Json.xml
+D:\GIT\KIKI\KIKI\KIKI\bin\Debug\Zlib.Portable.xml
+D:\GIT\KIKI\KIKI\KIKI\obj\Debug\KIKI.csprojResolveAssemblyReference.cache
+D:\GIT\KIKI\KIKI\KIKI\obj\Debug\MainWindow.g.cs
+D:\GIT\KIKI\KIKI\KIKI\obj\Debug\App.g.cs
+D:\GIT\KIKI\KIKI\KIKI\obj\Debug\KIKI_MarkupCompile.cache
+D:\GIT\KIKI\KIKI\KIKI\obj\Debug\KIKI_MarkupCompile.lref
+D:\GIT\KIKI\KIKI\KIKI\obj\Debug\MainWindow.baml
+D:\GIT\KIKI\KIKI\KIKI\obj\Debug\KIKI.g.resources
+D:\GIT\KIKI\KIKI\KIKI\obj\Debug\KIKI.Properties.Resources.resources
+D:\GIT\KIKI\KIKI\KIKI\obj\Debug\KIKI.csproj.GenerateResource.Cache
+D:\GIT\KIKI\KIKI\KIKI\obj\Debug\KIKI.exe
+D:\GIT\KIKI\KIKI\KIKI\obj\Debug\KIKI.pdb
+D:\GIT\KIKI\KIKI\KIKI\bin\Debug\KIKIXmlProcessor.exe
+D:\GIT\KIKI\KIKI\KIKI\bin\Debug\KIKIXmlProcessor.pdb
+D:\GIT\KIKI\KIKI\KIKI\bin\Debug\KIKIXmlProcessor.exe.config
+C:\Users\eddie\Source\Repos\ProjectKIKI\KIKI\KIKI\bin\Debug\KIKI.exe.config
+C:\Users\eddie\Documents\395 PJ\final version\ProjectKIKI3\KIKI\KIKI\bin\Debug\KIKI.exe.config
+C:\Users\eddie\Documents\395 PJ\final version\ProjectKIKI3\KIKI\KIKI\bin\Debug\client_secret.json
+C:\Users\eddie\Documents\395 PJ\final version\ProjectKIKI3\KIKI\KIKI\bin\Debug\KIKI.exe
+C:\Users\eddie\Documents\395 PJ\final version\ProjectKIKI3\KIKI\KIKI\bin\Debug\KIKI.pdb
+C:\Users\eddie\Documents\395 PJ\final version\ProjectKIKI3\KIKI\KIKI\bin\Debug\Google.Apis.Auth.dll
+C:\Users\eddie\Documents\395 PJ\final version\ProjectKIKI3\KIKI\KIKI\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\eddie\Documents\395 PJ\final version\ProjectKIKI3\KIKI\KIKI\bin\Debug\Google.Apis.Calendar.v3.dll
+C:\Users\eddie\Documents\395 PJ\final version\ProjectKIKI3\KIKI\KIKI\bin\Debug\Google.Apis.Core.dll
+C:\Users\eddie\Documents\395 PJ\final version\ProjectKIKI3\KIKI\KIKI\bin\Debug\Google.Apis.dll
+C:\Users\eddie\Documents\395 PJ\final version\ProjectKIKI3\KIKI\KIKI\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\eddie\Documents\395 PJ\final version\ProjectKIKI3\KIKI\KIKI\bin\Debug\Hardcodet.Wpf.TaskbarNotification.dll
+C:\Users\eddie\Documents\395 PJ\final version\ProjectKIKI3\KIKI\KIKI\bin\Debug\KIKIXmlProcessor.exe
+C:\Users\eddie\Documents\395 PJ\final version\ProjectKIKI3\KIKI\KIKI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\eddie\Documents\395 PJ\final version\ProjectKIKI3\KIKI\KIKI\bin\Debug\Zlib.Portable.dll
+C:\Users\eddie\Documents\395 PJ\final version\ProjectKIKI3\KIKI\KIKI\bin\Debug\KIKIXmlProcessor.pdb
+C:\Users\eddie\Documents\395 PJ\final version\ProjectKIKI3\KIKI\KIKI\bin\Debug\Google.Apis.pdb
+C:\Users\eddie\Documents\395 PJ\final version\ProjectKIKI3\KIKI\KIKI\bin\Debug\Google.Apis.xml
+C:\Users\eddie\Documents\395 PJ\final version\ProjectKIKI3\KIKI\KIKI\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\eddie\Documents\395 PJ\final version\ProjectKIKI3\KIKI\KIKI\bin\Debug\Google.Apis.Auth.xml
+C:\Users\eddie\Documents\395 PJ\final version\ProjectKIKI3\KIKI\KIKI\bin\Debug\Google.Apis.Auth.PlatformServices.pdb
+C:\Users\eddie\Documents\395 PJ\final version\ProjectKIKI3\KIKI\KIKI\bin\Debug\Google.Apis.Auth.PlatformServices.xml
+C:\Users\eddie\Documents\395 PJ\final version\ProjectKIKI3\KIKI\KIKI\bin\Debug\Google.Apis.Calendar.v3.pdb
+C:\Users\eddie\Documents\395 PJ\final version\ProjectKIKI3\KIKI\KIKI\bin\Debug\Google.Apis.Calendar.v3.xml
+C:\Users\eddie\Documents\395 PJ\final version\ProjectKIKI3\KIKI\KIKI\bin\Debug\Google.Apis.Core.pdb
+C:\Users\eddie\Documents\395 PJ\final version\ProjectKIKI3\KIKI\KIKI\bin\Debug\Google.Apis.Core.xml
+C:\Users\eddie\Documents\395 PJ\final version\ProjectKIKI3\KIKI\KIKI\bin\Debug\Google.Apis.PlatformServices.pdb
+C:\Users\eddie\Documents\395 PJ\final version\ProjectKIKI3\KIKI\KIKI\bin\Debug\Google.Apis.PlatformServices.xml
+C:\Users\eddie\Documents\395 PJ\final version\ProjectKIKI3\KIKI\KIKI\bin\Debug\Hardcodet.Wpf.TaskbarNotification.pdb
+C:\Users\eddie\Documents\395 PJ\final version\ProjectKIKI3\KIKI\KIKI\bin\Debug\Hardcodet.Wpf.TaskbarNotification.xml
+C:\Users\eddie\Documents\395 PJ\final version\ProjectKIKI3\KIKI\KIKI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\eddie\Documents\395 PJ\final version\ProjectKIKI3\KIKI\KIKI\bin\Debug\Zlib.Portable.xml
+C:\Users\eddie\Documents\395 PJ\final version\ProjectKIKI3\KIKI\KIKI\obj\Debug\KIKI.csprojResolveAssemblyReference.cache
+C:\Users\eddie\Documents\395 PJ\final version\ProjectKIKI3\KIKI\KIKI\obj\Debug\clickFileShowMeeting.g.cs
+C:\Users\eddie\Documents\395 PJ\final version\ProjectKIKI3\KIKI\KIKI\obj\Debug\clickShowFiles.g.cs
+C:\Users\eddie\Documents\395 PJ\final version\ProjectKIKI3\KIKI\KIKI\obj\Debug\MainWindow.g.cs
+C:\Users\eddie\Documents\395 PJ\final version\ProjectKIKI3\KIKI\KIKI\obj\Debug\App.g.cs
+C:\Users\eddie\Documents\395 PJ\final version\ProjectKIKI3\KIKI\KIKI\obj\Debug\KIKI_MarkupCompile.cache
+C:\Users\eddie\Documents\395 PJ\final version\ProjectKIKI3\KIKI\KIKI\obj\Debug\KIKI_MarkupCompile.lref
+C:\Users\eddie\Documents\395 PJ\final version\ProjectKIKI3\KIKI\KIKI\obj\Debug\App.baml
+C:\Users\eddie\Documents\395 PJ\final version\ProjectKIKI3\KIKI\KIKI\obj\Debug\clickFileShowMeeting.baml
+C:\Users\eddie\Documents\395 PJ\final version\ProjectKIKI3\KIKI\KIKI\obj\Debug\clickShowFiles.baml
+C:\Users\eddie\Documents\395 PJ\final version\ProjectKIKI3\KIKI\KIKI\obj\Debug\MainWindow.baml
+C:\Users\eddie\Documents\395 PJ\final version\ProjectKIKI3\KIKI\KIKI\obj\Debug\KIKI.g.resources
+C:\Users\eddie\Documents\395 PJ\final version\ProjectKIKI3\KIKI\KIKI\obj\Debug\KIKI.Properties.Resources.resources
+C:\Users\eddie\Documents\395 PJ\final version\ProjectKIKI3\KIKI\KIKI\obj\Debug\KIKI.csproj.GenerateResource.Cache
+C:\Users\eddie\Documents\395 PJ\final version\ProjectKIKI3\KIKI\KIKI\obj\Debug\KIKI.exe
+C:\Users\eddie\Documents\395 PJ\final version\ProjectKIKI3\KIKI\KIKI\obj\Debug\KIKI.pdb
